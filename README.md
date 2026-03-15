@@ -12,7 +12,7 @@
 * 🎓 B.Tech Computer Science Student
 * 💻 Skilled in **Java and Python**
 * 🔐 Interested in **Cybersecurity and Secure Systems**
-* 📱 [Completed **Android Developer Internship**](https://pdflink.to/863ae8fa/)
+* 📱 [Completed **Android Developer Internship**](AAPKA_GOOGLE_DRIVE_LINK_YAHAN_DAALE)
 * 🧠 Strong interest in **Data Structures and Algorithms**
 
 ---
@@ -43,42 +43,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityataki&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityataki&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <!-- Note: You need to set up a GitHub Action to generate this snake animation -->
-  <img src="https://raw.githubusercontent.com/adityataki/adityataki/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
-
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityataki&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 * 💼 **LinkedIn**: [Aditya Takit](https://linkedin.com/in/AdityaTakit)
 * 📧 **Email**: [adityatakit@gmail.com](mailto:adityatakit@gmail.com)
 * 💻 **GitHub**: [https://github.com/adityataki](https://github.com/adityataki)
+
 
