@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech Computer Science Student | Cyber Security | Java & Python Developer </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Cybersecurity+Learner;Java+Developer;Python+Programmer;DSA+Enthusiast;Future+Software+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Cybersecurity Enthusiast;Java+Developer;Python+Programmer;DSA;Future+Software+Engineer" alt="Typing SVG" />
 </p>
 
 ---
