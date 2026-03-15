@@ -45,7 +45,7 @@
 
 ## 📫 Connect With Me
 
-* 💼 **LinkedIn**: https://www.linkedin.com/in/aditya-takit-95911828b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+* 💼 **LinkedIn**: https://www.linkedin.com/in/aditya-takit-95911828b?
 * 📧 **Email**: [adityatakit@gmail.com](mailto:adityatakit@gmail.com)
 
 
