@@ -13,7 +13,7 @@
 * 💻 Skilled in **Java and Python**
 * 🔐 Interested in **Cybersecurity and Secure Systems**
 * 📱 [Completed **Android Developer Internship**](AAPKA_GOOGLE_DRIVE_LINK_YAHAN_DAALE)
-* 🧠 Strong interest in **Data Structures and Algorithms**
+* 🧠 Strong interest in **Cyber Security**
 
 ---
 
